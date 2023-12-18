@@ -1,0 +1,74 @@
+[
+  {
+    "id": "01",
+    "client_Name": "David Wagner",
+    "title": "Web Developer",
+    "total_amount": "18,960",
+    "intrest_amount": "11.5",
+    "salery": "15,000",
+    "role": "CEO and Founder",
+    "status": "Done",
+    "client_mail": "david_wagner@example.com",
+    "user_profile": "https://ik.imagekit.io/6rwnvzspf/move_up/profile/Oval%20Copy.png",
+    "bg_color": "#0095FF"
+  },
+  {
+    "id": "02",
+    "client_Name": "Ina Hogan",
+    "title": "App Developer",
+    "total_amount": "13,960",
+    "intrest_amount": "41.5",
+    "salery": "12,000",
+    "role": "Team Lead",
+    "status": "Done",
+    "client_mail": "windler.warren@runte.net",
+    "user_profile": "https://ik.imagekit.io/6rwnvzspf/move_up/profile/Oval%20Copy%202.png",
+    "bg_color": "#0095FF"
+  },
+  {
+    "id": "03",
+    "client_Name": "Devin Harmon",
+    "title": "Designer",
+    "total_amount": "4,960",
+    "intrest_amount": "15.5",
+    "salery": "10,000",
+    "role": "HR",
+    "status": "Pending",
+    "client_mail": "wintheiser_enos@yahoo.com",
+    "user_profile": "https://ik.imagekit.io/6rwnvzspf/move_up/profile/Oval-5.png",
+    "bg_color": "#FFB45E"
+  },
+  {
+    "id": "04",
+    "client_Name": "Lena Page",
+    "title": "Marketing",
+    "total_amount": "7,960",
+    "intrest_amount": "21.5",
+    "salery": "7,000",
+    "role": "App Designer",
+    "status": "Done",
+    "client_mail": "camila_ledner@gmail.com",
+    "user_profile": "https://ik.imagekit.io/6rwnvzspf/move_up/profile/Oval-4.png",
+    "bg_color": "#0095FF"
+  },
+  {
+    "id": "05",
+    "client_Name": "Eula Horton",
+    "salery": "5,000",
+    "role": "Web Developer",
+    "status": "Pending",
+    "client_mail": "edula_dorton1221@gmail.com",
+    "user_profile": "https://ik.imagekit.io/6rwnvzspf/move_up/profile/Oval-7.png",
+    "bg_color": "#FFB45E"
+  },
+  {
+    "id": "06",
+    "client_Name": "Victoria Perez",
+    "salery": "4,000",
+    "role": "App Developer",
+    "status": "Done",
+    "client_mail": "terrill.wiza@hotmail.com",
+    "user_profile": "https://ik.imagekit.io/6rwnvzspf/move_up/profile/pro1.png",
+    "bg_color": "#0095FF"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "day": "Sunday",
+    "date": "Jan 01, 2020",
+    "reason": "Sobe Kadar"
+  },
+  {
+    "day": "Tuesday",
+    "date": "Jan 14, 2020",
+    "reason": "Eid-Ul-Fitar"
+  },
+  {
+    "day": "Saturday",
+    "date": "Jan 26, 2020",
+    "reason": "Holi"
+  },
+  {
+    "day": "Friday",
+    "date": "Mar 04, 2020",
+    "reason": "Republic Day"
+  },
+  {
+    "day": "Thursday",
+    "date": "Mar 21, 2020",
+    "reason": "Maha Shivaratri"
+  },
+  {
+    "day": "Wednesday",
+    "date": "Jun 05, 2020",
+    "reason": "Eid Ul Azha"
+  },
+  {
+    "day": "Wednesday",
+    "date": "Jun 05, 2020",
+    "reason": "Eid Ul Azha"
+  }
+]

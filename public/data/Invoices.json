@@ -1,0 +1,62 @@
+[
+  {
+    "amount": "552",
+    "main_status": "Total Approved",
+    "invoice_no": "#LA-0232",
+    "client_Name": "ADHSPP Pvt",
+    "data": "11 Aug, 2020",
+    "status": "Approve",
+    "salary": "6,340",
+    "card": "https://ik.imagekit.io/6rwnvzspf/move_up/profile/visa.png",
+    "bg_color": "#0095FF"
+  },
+  {
+    "amount": "152",
+    "main_status": "Pending Invoice",
+    "invoice_no": "#LA-0233",
+    "client_Name": "RETO Tech LLC",
+    "data": "14 Aug, 2020",
+    "status": "Approve",
+    "salary": "3,340",
+    "card": "https://ik.imagekit.io/6rwnvzspf/move_up/profile/visa.png",
+    "bg_color": "#0095FF"
+  },
+  {
+    "amount": "452",
+    "main_status": "Closed",
+    "invoice_no": "#LA-0234",
+    "client_Name": "More Infoweb Pvt",
+    "data": "18 Aug, 2020",
+    "status": "Approve",
+    "salary": "4,340",
+    "card": "https://ik.imagekit.io/6rwnvzspf/move_up/profile/visa.png",
+    "bg_color": "#0095FF"
+  },
+  {
+    "invoice_no": "#LA-0235",
+    "client_Name": "RETO Tech LLC",
+    "data": "22 Aug, 2020",
+    "status": "Pending",
+    "salary": "7,340",
+    "card": "https://ik.imagekit.io/6rwnvzspf/move_up/profile/visa.png",
+    "bg_color": "#FFB45E"
+  },
+  {
+    "invoice_no": "#LA-0236",
+    "client_Name": "ADHSPP Pvt",
+    "data": "24 Aug, 2020",
+    "status": "Approve",
+    "salary": "8,340",
+    "card": "https://ik.imagekit.io/6rwnvzspf/move_up/profile/visa.png",
+    "bg_color": "#0095FF"
+  },
+  {
+    "invoice_no": "#LA-0237",
+    "client_Name": "SamSML LLC",
+    "data": "27 Aug, 2020",
+    "status": "Pending",
+    "salary": "1,340",
+    "card": "https://ik.imagekit.io/6rwnvzspf/move_up/profile/visa.png",
+    "bg_color": "#FFB45E"
+  }
+]

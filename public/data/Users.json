@@ -1,0 +1,65 @@
+[
+  {
+    "user_name": "David Wagner",
+    "email": "david_wagner@example.com",
+    "role": "CEO and Founder",
+    "created_at": "12 Otc, 2015",
+    "profile_url": "https://ik.imagekit.io/6rwnvzspf/move_up/profile/Oval%20Copy%202.png",
+    "isAdmin": "SUPER ADMIN",
+    "bg_color": "#FF2D55"
+  },
+  {
+    "user_name": "Ina Hogan",
+    "email": "windler.warren@runte.net",
+    "role": "Team Lead",
+    "created_at": "23 Otc, 2015",
+    "profile_url": "https://ik.imagekit.io/6rwnvzspf/move_up/profile/Oval%20Copy%208.png",
+    "isAdmin": "ADMIN",
+    "bg_color": "#0095FF"
+  },
+  {
+    "user_name": "Devin Harmon",
+    "email": "wintheiser_enos@yahoo.com",
+    "profile_url": "https://ik.imagekit.io/6rwnvzspf/move_up/profile/Oval%20Copy%202%20(1).png",
+    "role": "HR",
+    "created_at": "24 Otc, 2015",
+    "isAdmin": "ADMIN",
+    "bg_color": "#00E096"
+  },
+  {
+    "user_name": "Lena Page",
+    "email": "camila_ledner@gmail.com",
+    "role": "App Designer",
+    "profile_url": "https://ik.imagekit.io/6rwnvzspf/move_up/profile/Oval-6.png",
+    "created_at": "25 Otc, 2015",
+    "isAdmin": "EMPLOYEE",
+    "bg_color": "#EFF4FA"
+  },
+  {
+    "user_name": "Eula Horton",
+    "email": "edula_dorton1221@gmail.com",
+    "role": "CEO and Founder",
+    "profile_url": "https://ik.imagekit.io/6rwnvzspf/move_up/profile/Oval.png",
+    "created_at": "26 Otc, 2015",
+    "isAdmin": "SUPER ADMIN",
+    "bg_color": "#FF2D55"
+  },
+  {
+    "user_name": "Victoria Perez",
+    "email": "terrill.wiza@hotmail.com",
+    "role": "HR",
+    "profile_url": "https://ik.imagekit.io/6rwnvzspf/move_up/profile/Oval-7.png",
+    "created_at": "28 Otc, 2015",
+    "isAdmin": "HR ADMIN",
+    "bg_color": "#00E096"
+  },
+  {
+    "user_name": "Cora Medina",
+    "email": "hagenes.isai@hotmail.com",
+    "profile_url": "https://ik.imagekit.io/6rwnvzspf/move_up/profile/pro1.png",
+    "role": "Web Developer",
+    "created_at": "30 Otc, 2015",
+    "isAdmin": "EMPLOYEE",
+    "bg_color": "#EFF4FA"
+  }
+]

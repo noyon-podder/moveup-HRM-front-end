@@ -1,0 +1,37 @@
+[
+  {
+    "id": "01",
+    "title": "Basic Salary",
+    "salary_frist_month": "1,560",
+    "salary_two_month": "",
+    "salary_three_month": "380"
+  },
+  {
+    "id": "02",
+    "title": "House Rent Allowance (H.R.A)",
+    "salary_frist_month": "1,360",
+    "salary_two_month": "",
+    "salary_three_month": "480"
+  },
+  {
+    "id": "03",
+    "title": "Tax Deducted at Source (T.D.S)",
+    "salary_frist_month": "",
+    "salary_two_month": "670",
+    "salary_three_month": ""
+  },
+  {
+    "id": "04",
+    "title": "BCC Bank Loan",
+    "salary_frist_month": "",
+    "salary_two_month": "870",
+    "salary_three_month": "880"
+  },
+  {
+    "id": "05",
+    "title": "Other Allowance",
+    "salary_frist_month": "2,360",
+    "salary_two_month": "",
+    "salary_three_month": "120"
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "total_employee": "614",
+    "title": "Total Employee",
+    "client_Name": "David Wagner",
+    "client_mail": "david_wagner@example.com",
+    "employee_id": "ME-1496",
+    "employee_phone": "+223-459-7564",
+    "employee_profile": "https://ik.imagekit.io/6rwnvzspf/move_up/profile/Oval-4.png",
+    "employee_role": "CEO and Founder",
+    "leave_type": "Casual Leave",
+    "leave_data": "04 Otc, 2015 to 20 Otc, 2015",
+    "leave_reason": "Going To Family Function",
+    "date": "04 Otc, 2015"
+  },
+  {
+    "total_employee": "124",
+    "title": "New Employee",
+    "client_Name": "Ina Hogan",
+    "client_mail": "windler.warren@runte.net",
+    "employee_id": "ME-1497",
+    "employee_phone": "+223-459-7533",
+    "employee_profile": "https://ik.imagekit.io/6rwnvzspf/move_up/profile/Oval-6.png",
+    "employee_role": "Team Lead",
+    "leave_type": "Medical Leave",
+    "leave_data": "24 Otc, 2015 to 26 Otc, 2015",
+    "leave_reason": "Going To Development",
+    "date": "06 Otc, 2015"
+  },
+  {
+    "total_employee": "504",
+    "title": "Male",
+    "client_Name": "Devin Harmon",
+    "client_mail": "wintheiser_enos@yahoo.com",
+    "employee_id": "ME-1498",
+    "employee_phone": "+223-422-7564",
+    "employee_profile": "https://ik.imagekit.io/6rwnvzspf/move_up/profile/Oval.png",
+    "employee_role": "HR",
+    "leave_type": "Casual Leave",
+    "leave_data": "13 Otc, 2015 to 26 Otc, 2015",
+    "leave_reason": "Going To Birthday Party",
+    "date": "09 Otc, 2015"
+  },
+  {
+    "total_employee": "100",
+    "title": "Female",
+    "client_Name": "Lena Page",
+    "client_mail": "camila_ledner@gmail.com",
+    "employee_id": "ME-1499",
+    "employee_phone": "+223-459-7224",
+    "employee_profile": "https://ik.imagekit.io/6rwnvzspf/move_up/profile/Oval-7.png",
+    "employee_role": "App Designer",
+    "leave_type": "Sick Leave",
+    "leave_data": "12 Otc, 2015 to 26 Otc, 2015",
+    "leave_reason": "Going to Holiday",
+    "date": "14 Otc, 2015"
+  },
+  {
+    "client_Name": "Eula Horton",
+    "client_mail": "edula_dorton1221@gmail.com",
+    "employee_id": "ME-1500",
+    "employee_phone": "+223-459-7334",
+    "employee_profile": "https://ik.imagekit.io/6rwnvzspf/move_up/profile/pro1.png",
+    "employee_role": "Web Developer",
+    "date": "24 Otc, 2015"
+  },
+  {
+    "client_Name": "Victoria Perez",
+    "client_mail": "terrill.wiza@hotmail.com",
+    "employee_id": "ME-1501",
+    "employee_phone": "+223-459-7323",
+    "employee_profile": "https://ik.imagekit.io/6rwnvzspf/move_up/profile/pro2.png",
+    "employee_role": "App Developer",
+    "date": "29 Otc, 2015"
+  }
+]

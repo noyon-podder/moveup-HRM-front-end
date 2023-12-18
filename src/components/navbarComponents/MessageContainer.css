@@ -1,0 +1,14 @@
+.messageContainer {
+  position: relative;
+}
+.messageContainer::before {
+  content: "";
+  position: absolute;
+  border-top: 15px solid transparent;
+  border-left: 15px solid transparent;
+  border-right: 15px solid transparent;
+  border-bottom: 15px solid #fff;
+  top: -26px;
+  right: 7px;
+  z-index: -50;
+}
