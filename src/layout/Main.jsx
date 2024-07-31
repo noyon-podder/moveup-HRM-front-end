@@ -16,7 +16,7 @@ const Main = () => {
       </div> */}
 
       <div className="grid xl:grid-cols-12 lg:grid-cols-10 grid-cols-4 ">
-        <div className="xl:col-span-2 lg:col-span-2 col-span-1  w-full">
+        <div className="xl:col-span-2 lg:col-span-2 col-span-1 main w-full">
           <SideNavbar></SideNavbar>
         </div>
         <div className="xl:col-span-10 lg:col-span-8 col-span-3 mr-[30px]">
