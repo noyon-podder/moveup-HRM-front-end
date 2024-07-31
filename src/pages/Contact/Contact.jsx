@@ -51,10 +51,10 @@ const Contact = () => {
                   borderBottomLeftRadius: "10px",
                 }}
               >
-                <FaListUl size={32} color="#fff"></FaListUl>
+                <FaListUl size={22} color="#fff"></FaListUl>
               </div>
               <div className="px-4 text-center py-2 bg-[#F9FBFD] hover:bg-[#F9FBFD] w-1/2 cursor-pointer">
-                <FaGripHorizontal size={32} color="#8F9BB3"></FaGripHorizontal>
+                <FaGripHorizontal size={22} color="#8F9BB3"></FaGripHorizontal>
               </div>
             </div>
             <a href="#addContact_modal" onClick={() => setIsOpen(true)}>

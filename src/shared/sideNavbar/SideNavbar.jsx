@@ -216,9 +216,9 @@ const SideNavbar = () => {
     </>
   );
   return (
-    <div className="grid grid-cols-12 bg-white fixed top-0 left-0 lg:w-[185px]">
-      <div className="col-span-3">
-        <div className="bg-[#0095FF] py-[25px] min-h-screen h-full flex flex-col items-center justify-between w-[50px]">
+    <div className="grid grid-cols-12 fixed top-0 left-0 w-[300px] gap-0">
+      <div className="col-span-2">
+        <div className="bg-[#0095FF] py-[25px] min-h-screen h-full flex flex-col items-center justify-between w-full">
           <div>
             <div className="w-[34px] h-[34px]">
               <img src="/public/logo.png" width="100%" alt="" />
@@ -313,8 +313,8 @@ const SideNavbar = () => {
           </div>
         </div>
       </div>
-      <div className="col-span-9 ml-4">
-        <div className="bg-white w-[180] py-9 h-screen">
+      <div className="col-span-10 w-full">
+        <div className="bg-white pl-7 w-full py-9 h-screen">
           <div className="w-[70px] h-[18px]">
             <img
               src="/public/moveUpLogo.png"

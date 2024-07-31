@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 /* eslint-disable react/no-unescaped-entities */
 
 import { useRef, useState } from "react";
@@ -8,12 +9,7 @@ import imageUploader from "../../shared/imageUploader/imageUploader";
 
 const AdDContact_modal = ({ setIsOpen }) => {
   /* */
-  const {
-    register,
-    handleSubmit,
-    reset,
-    formState: { errors },
-  } = useForm();
+  const { register, handleSubmit, reset } = useForm();
 
   const [Images, setImage] = useState("");
   const fileInputRefs = useRef([]);
@@ -66,6 +62,8 @@ const AdDContact_modal = ({ setIsOpen }) => {
     // axios.post("./data/Contact.json", { data: contactData }).then((data) => {
     // localStorage.setItem("contactData", JSON.stringify(data));
     // });
+
+    setIsOpen(null);
   };
 
   return (
