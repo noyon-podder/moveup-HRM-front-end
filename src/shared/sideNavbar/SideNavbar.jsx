@@ -9,9 +9,11 @@ import { RiBarChartHorizontalLine } from "react-icons/ri";
 import { TbBrowserPlus } from "react-icons/tb";
 import { TiFlashOutline } from "react-icons/ti";
 import { Link, useLocation } from "react-router-dom";
+import WebLogo from "/public/logo.png";
 
 const SideNavbar = () => {
   const usePathname = useLocation();
+
   const pathname = usePathname?.pathname;
 
   const navBar = (
@@ -221,7 +223,8 @@ const SideNavbar = () => {
         <div className="bg-[#0095FF] py-[25px] min-h-screen h-full flex flex-col items-center justify-between w-full">
           <div>
             <div className="w-[34px] h-[34px]">
-              <img src="/public/logo.png" width="100%" alt="" />
+              {/* <img src="/public/logo.png" width="100%" alt="" /> */}
+              <img src={WebLogo} width="100%" alt="" />
             </div>
             <div className="flex flex-col items-center gap-7 mt-9">
               <Link
@@ -315,13 +318,16 @@ const SideNavbar = () => {
       </div>
       <div className="col-span-10 w-full">
         <div className="bg-white pl-7 w-full py-9 h-screen">
-          <div className="w-[70px] h-[18px]">
-            <img
+          <div className="">
+            {/* <img
               src="/public/moveUpLogo.png"
               width="100%"
               height="100%"
               alt=""
-            />
+            /> */}
+            <h2 className="text-black text-2xl block font-bold ">
+              Move<span className="text-blue-500">Up</span>
+            </h2>
           </div>
           <div className="mt-10">
             <div>{navBar}</div>
