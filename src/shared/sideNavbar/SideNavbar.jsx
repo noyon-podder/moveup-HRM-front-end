@@ -316,9 +316,9 @@ const SideNavbar = () => {
           </div>
         </div>
       </div>
-      <div className="col-span-10 w-full">
+      <div className="col-span-10 w-full lg:hidden xl:block">
         <div className="bg-white pl-7 w-full py-9 h-screen">
-          <div className="">
+          <Link to={"/"}>
             {/* <img
               src="/public/moveUpLogo.png"
               width="100%"
@@ -328,7 +328,7 @@ const SideNavbar = () => {
             <h2 className="text-black text-2xl block font-bold ">
               Move<span className="text-blue-500">Up</span>
             </h2>
-          </div>
+          </Link>
           <div className="mt-10">
             <div>{navBar}</div>
           </div>
